@@ -7,4 +7,4 @@ In this project, I worked with another classmate to download data from 2018 and 
 
 # Snapchat Advertisement
 
-In this project, I worked with another classmate to use the data from Snapchat to determine whether or not ads are targeted agnostically (by column) or specifically will affect the impressions per dollar spent by the advertiser. Click the link to see our work: 
+In this project, I worked with another classmate to use the data from Snapchat to determine whether or not ads are targeted agnostically (by column) or specifically will affect the impressions per dollar spent by the advertiser using hypothesis tests. Click the link to see our work: https://github.com/JosephBui21/Snapchat-ads
