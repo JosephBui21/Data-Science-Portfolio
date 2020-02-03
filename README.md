@@ -3,7 +3,7 @@ This portfolio is a compilation of notebooks displaying my proficiency of data a
 
 # Real or Not? NLP with Disaster Tweets
 
-In this Kaggle competition, I had to predict whether a tweet was really about a disaster or not based on the words in the tweet. I used matplotlib to plot the tweets to visualize the number of character in a tweet and number of words in a tweet to as my exploratory data analysis. Due to the fact that I am analyzing tweets, I must clean the tweet by removing emojis, hashtags, html tags, and links to help me easily implement my TFidfVectorizer to transform the raw text into feature vectors that will help me predict its classification using K-nearest neighbors (90). I used cross validation score of 4 fold to measure how accurate my results were and I received an average of 73%.
+In this Kaggle competition, I had to predict whether a tweet was really about a disaster or not based on the words in the tweet. I used matplotlib to plot the tweets to visualize the number of character in a tweet and number of words in a tweet to as my exploratory data analysis. Due to the fact that I am analyzing tweets, I must clean the tweet by removing emojis, hashtags, html tags, and links to help me easily implement my TFidfVectorizer to transform the raw text into feature vectors that will help me predict its classification using K-nearest neighbors (90). I used cross validation score of 4 fold to measure how accurate my results were and I received an average of 73%. Click this link to see my work: https://github.com/JosephBui21/TweetClassification
 
 # Snapchat Advertisement Regression Problem
 
