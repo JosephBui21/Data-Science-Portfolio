@@ -15,5 +15,4 @@ In this project, I worked with another classmate to use the data from Snapchat t
 
 # Computing grades for fictional class
 
-In this project, my partner and I portray our proficiency of pandas dataframe and numpy basics to clean and process data of a fictional class to compute total course grades according to a fictional syllabus. Click the link to see our work: 
-
+In this project, my partner and I portray our proficiency of pandas dataframe and numpy basics to clean and process data of a fictional class to compute total course grades according to a fictional syllabus. Click the link to see our work: https://github.com/JosephBui21/fictional-class-grades
