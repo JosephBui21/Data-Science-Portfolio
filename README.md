@@ -3,7 +3,7 @@ This portfolio is a compilation of notebooks displaying my proficiency of data a
 
 # Yelp Prediction Mini-Project
 
-Yelp is a crowdsourcing website for users to review certain local businesses. Users can describe their overall experience using star ratings or give feedback to a business. Using Yelp & my expertise with machine learning, I wanted to predict what a business' star rating would be based on a review a user wrote. 
+Yelp is a crowdsourcing website for users to review certain local businesses. Users can describe their overall experience using star ratings or give feedback to a business. Using Yelp & my expertise with machine learning, I wanted to predict what a business' star rating would be based on a review a user wrote in my hometown, San Jose. 
 
 # DataHacks 2020 Finalist
 
