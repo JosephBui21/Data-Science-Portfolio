@@ -1,6 +1,10 @@
 # Data Science Portfolio by Joseph Bui
 This portfolio is a compilation of notebooks displaying my proficiency of data analysis and machine learning algorithms.
 
+# Yelp Prediction Mini-Project
+
+Yelp is a crowdsourcing website for users to review certain local businesses. Users can describe their overall experience using star ratings or give feedback to a business. Using Yelp & my expertise with machine learning, I wanted to predict what a business' star rating would be based on a review a user wrote. 
+
 # DataHacks 2020 Finalist
 
 In this competition, David, Nathan, and I found studies that proved that African Americans are more likely to experience mortality due to diabetes than other races. As a result, we wanted to use the data we were given to find if African Americans are receiving racial bias within the healthcare system. Click this link to view our work:
@@ -20,4 +24,4 @@ In this project, I worked with another classmate to use the data from Snapchat t
 
 # Computing grades for fictional class
 
-In this project, my partner and I portray our proficiency of pandas dataframe and numpy basics to clean and process data of a fictional class to compute total course grades according to a fictional syllabus. Click the link to view our work: https://github.com/JosephBui21/fictional-class-grades
+In this project, my partner and I portrayed our proficiency of pandas dataframe and numpy basics to clean and process data of a fictional class to compute total course grades according to a fictional syllabus. Click the link to view our work: https://github.com/JosephBui21/fictional-class-grades
