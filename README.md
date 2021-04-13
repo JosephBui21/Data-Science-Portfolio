@@ -1,6 +1,11 @@
 # Data Science Portfolio by Joseph Bui
 This portfolio is a compilation of notebooks displaying my proficiency of data analysis and machine learning algorithms.
 
+# RNA-Seq Differential Gene Analysis Tools Comparison
+
+In this Senior Capstone Project, Brandon, Luigi, and I investigate how different differential gene expression analysis tools perform on distinct simulated datasets to potentially help future researchers with their RNA-Sequencing research. Click here for our results: https://www.youtube.com/watch?v=0co4-NWw6Jo 
+Click here to review our work: https://github.com/JosephBui21/RNASeqToolComparison
+
 # Yelp Prediction Mini-Project
 
 Yelp is a crowdsourcing website for users to review certain local businesses. Users can describe their overall experience using star ratings or give feedback to a business. Using Yelp & my expertise with machine learning, I wanted to predict what a restaurants' (in San Jose) star rating would be based on a review a user wrote.
